@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipea1&label=Profile%20views&color=0e75b6&style=flat" alt="felipea1" /> </p>
 
-- 🔭 Estou trabalhando atualmente em [Academia-SistemaOS](https://github.com/felipea1/Academia-SistemaOS)
+- 🔭 Estou trabalhando atualmente em [Projetos-C](https://github.com/felipea1/Projetos-C)
 
 - 💬 Me pergunte sobre **Java, MYsql, HTML5 e CSS3**
 
